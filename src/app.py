@@ -55,10 +55,6 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.tsa.stattools import grangercausalitytests
 from statsmodels.tsa.stattools import coint
 
-from app import app
-
-
-
 
 BS = "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
 
